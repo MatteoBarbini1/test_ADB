@@ -1,0 +1,8 @@
+ncols 1750
+nrows 2300
+xllcorner 736550.0
+yllcorner 5089900.0
+cellsize 1.0
+NODATA_value -9999.0
+byteorder LSBFIRST
+NODATA         -9999
