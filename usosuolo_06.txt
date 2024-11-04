@@ -1,0 +1,14 @@
+Code	Roughness	Mobile	EInfAngle(°)	EInfVel(m/s)	DSupAngle(°)	DSupVel(m/s)	c*	ErosionLimit	Description
+111	1	1	89	9	14	1	0.62	0	Edificio
+115	1	1	89	9	14	1	0.62	0	Urbano
+122	4	1	30	3	14	1	0.62	0	Strada
+125	4	1	16	2	12	1	0.62	0	Sterrato
+231	3	1	20	2	14	1	0.62	0	Prato
+311	1	1	20	3	12	0.8	0.62	0	Bosco
+322	2	1	20	3	12	0.8	0.62	0	Arbusti
+531	4	1	16	2	14	1	0.62	0	Ghiaia (alveo)
+532	3	1	18	3	14	1	0.62	0	Massi (alveo)
+611	3	1	18	3	14	1	0.62	0	Scogliera
+612	5	1	16	2	14	1	0.62	0	Cls
+615	4	1	16	2	14	1	0.62	0	Pietrame
+700	2	1	18	3	14	1	0.75	0	Innesco
